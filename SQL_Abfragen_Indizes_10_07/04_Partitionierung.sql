@@ -86,7 +86,7 @@ SELECT $partition.pf_Zahl(250)
 SELECT * FROM M003_Test t
 JOIN
 (
-	SELECT name, ips.partition_number5
+	SELECT name, ips.partition_number
 	FROM sys.filegroups fg --Name
 
 	JOIN sys.allocation_units au
