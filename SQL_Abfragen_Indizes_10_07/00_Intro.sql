@@ -14,6 +14,7 @@
 	- MAXDOP
 
 	Tag 2:
+	- Indizes
 	- QueryStore
 	- SQLQuerystress
 	- Join Arten
